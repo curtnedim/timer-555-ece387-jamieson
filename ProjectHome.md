@@ -1,0 +1,1 @@
+The purpose of this project was to inform on ways a simple IC could independently provide timing and control functions that students might otherwise attempt to perform with an Arduino microcontroller.
